@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.andrea.listaasistencia.MainActivity">
+
+    <item
+    android:id="@+id/navegacion_grupo1"
+    android:icon="@drawable/baseline_group_24"
+    android:title="Equipo Americana"/>
+
+    <item
+        android:id="@+id/navegacion_grupo2"
+        android:icon="@drawable/baseline_group_24"
+        android:title="Equipo Nacional"/>
+
+</menu>
